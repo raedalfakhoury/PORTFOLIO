@@ -2,7 +2,7 @@
 import React from "react";
 import css from "../assets/css.png";
 import express from "../assets/express.png";
-import firebase from "../assets/firebase.png";
+import cloudinary from "../assets/download.png";
 import html from "../assets/HTML.png";
 import js from "../assets/js.png";
 import mongoDB from "../assets/mongoDB.png";
@@ -10,20 +10,20 @@ import nodejs from "../assets/nodejs.png";
 import postgres from "../assets/POSTGRESS.png";
 import r from "../assets/r.png";
 import red from "../assets/red.png";
-import tail from "../assets/tail.jpg";
+import Mui from "../assets/images.jpeg";
 
 const Technologies = () => {
   const arr = [
     { id: 1, src: css, title: "Css", style: "shadow-blue-500 mobile:text-xs" },
     { id: 2, src: html, title: "HTML", style: "shadow-orange-500 mobile:text-xs"  },
     { id: 3, src: express, title: "ExpressJS", style: "shadow-gray-500 mobile:text-xs" },
-    { id: 4, src: firebase, title: "Firebase", style: "shadow-orange-300 mobile:text-xs" },
+    { id: 4, src: cloudinary, title: "Cloudinary", style: "shadow-orange-300 mobile:text-xs" },
     { id: 5, src: js, title: "JavaScript", style: "shadow-yellow-500 mobile:text-xs" },
     { id: 6, src: mongoDB, title: "mongoDB", style: "shadow-green-500 mobile:text-xs" },
     { id: 7, src: nodejs, title: "NodeJs", style: "shadow-green-200 mobile:text-xs" },
     { id: 8, src: r, title: "ReactJS", style: "shadow-blue-600 mobile:text-xs" },
     { id: 9, src: red, title: "Redux", style: "shadow-blue-500 mobile:text-xs" },
-    { id: 10, src: tail, title: "Tailwind", style: "shadow-sky-500 mobile:text-xs" },
+    { id: 10, src: Mui, title: "Mui", style: "shadow-sky-500 mobile:text-xs" },
     { id: 11, src: postgres, title: "Postgres", style: "shadow-blue-600 mobile:text-xs" },
   ];
 
