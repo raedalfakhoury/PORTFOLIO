@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import me from "../assets/me.jpg";
 
-const Home = () => {
+const Home = () => {``
   return (
     <div
       name="Home"

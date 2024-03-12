@@ -43,7 +43,7 @@ const SocialLinks = () => {
         <li className=" flex justify-between items-center w-40 h-14 px-4 ml-[-100px]  bg-gray hover:ml-[-10px] rounded-md duration-300">
           <a
             className="flex justify-between items-center w-full text-white "
-            href="/resume.pdf" download={true} target="blank " rel="noreferrer"
+            href="/raed.pdf" download={true} target="blank " rel="noreferrer"
           >
             <>
               Resume
