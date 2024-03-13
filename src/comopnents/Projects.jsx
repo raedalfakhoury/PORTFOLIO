@@ -16,7 +16,7 @@ const Projects = () => {
         </div>
         <div className='grid mobile:grid-cols-2 md:grid-cols-3 gap-8 px-12 mobile:px-0 mobile:pl-16 w-full lg:items-center justify-center pl-40'>
           <div>
-            <img style={{height:"100px" , width:"250px"}} src={shop} alt="" />
+            <img  style={{height:"100px" , width:"250px"}} src={shop} alt="" />
             <div className='flex justify-center'>
               <p >E-shop </p>
               
